@@ -6,7 +6,7 @@ ISBN4-591-03701-0 C8739 P1000E
 Translation by Tom Ray and Hiromi Mochizuki (hiromi@hip.atr.co.jp) ももたろう momotarou 
 
 
-.ge 18
+.page 18
 
 山 の ほう へ いく と さる が きました。
 「ももたろう さん、 ももたろう さん、 どこ へ いきなさる。」
