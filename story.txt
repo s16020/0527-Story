@@ -6,7 +6,7 @@ ISBN4-591-03701-0 C8739 P1000E
 Translation by Tom Ray and Hiromi Mochizuki (hiromi@hip.atr.co.jp) ももたろう momotarou 
 
 
-pge 8
+page 8
 
 ふたり は この 子（こ） に ももたろう と
 いう 名（な）まえ を つけ、 それは それは
