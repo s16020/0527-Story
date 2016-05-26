@@ -67,14 +67,7 @@ page 8
 おじいさん も おばあさん も いよいよ
 ももたろう を かわいがりました。
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-.page 18
-=======
-page 18
->>>>>>> e82461f7b980ff9d95e1d9b8c9cedabde0713a52
-=======
--- 
+
 
 ふたり は この 子（こ） に ももたろう と いう 名（な）まえ を つけ、
 Together they gave the name Momotarou to this child, and
